@@ -1,0 +1,31 @@
+index.css
+html{
+  font-family: Helvetica, sans-serif;
+}
+
+/*why does ol not text-aling centre? or breaks the current rule?*/
+
+h1, h2, h3 {
+  color: DarkGreen;
+  text-align: center;
+}
+
+
+h3{
+  color: SeaGreen;
+  font-weight: 300;
+}
+
+
+body {
+  background-color: Azure;
+}
+
+p {
+  font-weight: ;
+}
+
+
+a{
+  color: blue;
+}
